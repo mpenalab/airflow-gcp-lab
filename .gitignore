@@ -1,0 +1,16 @@
+# Credenciales de Google Cloud
+google_credentials.json
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos de entorno y variables locales
+.env
+
+# Archivos temporales de Python y Airflow
+__pycache__/
+*.pyc
+logs/
+temp/
